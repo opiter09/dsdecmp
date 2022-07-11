@@ -12,4 +12,4 @@ This tool allows for decompressing and compressing in popular NDS file compressi
 
 
 In addition, this fork includes an MIT License, since that is what the code came with (see https://web.archive.org/web/20141223223529/https://code.google.com/p/dsdecmp/),
-and also a compiled exe the Wayback Machine somehow saved, so no-one has to try to compile it.
+and also a compiled exe the Wayback Machine somehow saved, so no-one has to try and compile it.
